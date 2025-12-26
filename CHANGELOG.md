@@ -1,6 +1,16 @@
-# Changelog
+# BTCX Lightning - Changelog
 
-All notable changes to this project will be documented in this file.
+This is a fork of Core Lightning for **Bitcoin-PoCX**.
+
+**Note:** This CHANGELOG file is not maintained for this fork. For version history and changes specific to BTCX Lightning, please refer to the Git history and releases at:
+
+https://github.com/rico666/btcx-ln
+
+---
+
+## Upstream Core Lightning Changelog (Historical Reference)
+
+The changelog below is from upstream Core Lightning and is preserved for historical reference only.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 

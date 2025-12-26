@@ -6,13 +6,22 @@ We have a 3 month release cycle, and the last two versions are supported.
 
 ## Reporting a Vulnerability
 
-To report security vulnerabilities, please send an email to one of the following addresses:
+### Bitcoin-PoCX Related Issues
+
+For security vulnerabilities related to **Bitcoin-PoCX integration** (chainparams, PoCX-specific features, or this fork):
+
+- `contact@bitcoin-pocx.org`
+
+### Upstream Core Lightning Issues
+
+For security vulnerabilities in **upstream Core Lightning base features** (channels, payments, routing, plugins, etc.), please contact the original CLN maintainers:
+
 - `rusty@rustcorp.com.au`
 - `security@blockstream.com`
 
-Note: These email addresses are exclusively for vulnerability reporting.
+Note: These upstream email addresses are exclusively for vulnerability reporting in base CLN functionality.
 
-For all other inquiries/communication, please refer to the [Reach Out to Us](https://github.com/ElementsProject/lightning?tab=readme-ov-file#reach-out-to-us) section in our README.
+For general inquiries, join our [Discord](https://discord.gg/fwPwvG9n73).
 
 ## Signatures For Releases
 

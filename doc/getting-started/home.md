@@ -1,18 +1,21 @@
 ---
-title: Welcome to Core Lightning Documentation Portal
+title: Welcome to BTCX Lightning Documentation
 slug: home
 content:
   excerpt: >-
-    Here you can find everything you need to jump-start your journey to running and building on Core Lightning.
+    Here you can find everything you need to jump-start your journey to running and building on BTCX Lightning for Bitcoin-PoCX.
 privacy:
   view: public
 ---
-> 📘 **Help us improve!**
+> 📘 **BTCX Lightning for Bitcoin-PoCX**
 >
-> The Core Lightning documentation and API reference is a work-in-progress.  
-> Feel free to suggest edits or send us your feedback by clicking **_Suggest Edits_**  
-> at the top-right of every page (_login required_) or via  
-> **[Telegram](https://t.me/lightningd)**.
+> This is a fork of Core Lightning adapted for the **Bitcoin-PoCX** blockchain.
+> The documentation links below point to upstream Core Lightning docs, which apply to
+> all base functionality (channels, payments, routing, plugins, etc.).
+>
+> For Bitcoin-PoCX specific information, see the [README](https://github.com/rico666/btcx-ln#readme).
+>
+> Questions? Join our **[Discord](https://discord.gg/fwPwvG9n73)** or open an issue on **[GitHub](https://github.com/rico666/btcx-ln)**.
 
 ***
 

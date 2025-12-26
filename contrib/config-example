@@ -1,11 +1,12 @@
 ###
-##        Core Lightning Configurations
+##        BTCX Lightning Configurations
+##        (Lightning Network for Bitcoin-PoCX)
 ###
 ##  Edit this file to your desired configurations
 ##   Uncomment any settings you wish to configure
 ###
-##  Copy this file to the root directory  `~.lightning`
-##  Or a network directory such as `~.lightning/bitcoin`
+##  Copy this file to the root directory  `~/.lightning`
+##  Or a network directory such as `~/.lightning/pocx`
 ##       Edit this files name to `config`
 ###
 ##    To view all documentation & options run:
@@ -23,9 +24,10 @@
 ## Pick your favorite color as a hex code
 #rgb=FFA500
 
-## Set the network for Core Lightning to sync to, Bitcoin Mainnet for most users
+## Set the network for BTCX Lightning to sync to
+## Options: pocx (mainnet), testnet, regtest
 ## Not required if the config file is in a network directory
-#network=bitcoin
+#network=pocx
 
 ## Run `lightningd` as a background daemon instead of in the terminal
 ## Requires `log-file` path
@@ -93,7 +95,7 @@
 
 ##
 #                   Plugins
-#  Plugins allow you to extend Core Lightnings functionality
+#  Plugins allow you to extend BTCX Lightning functionality
 #   For a community curated list of available plugins visit:
 #         "https://github.com/lightningd/plugins"
 ##

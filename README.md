@@ -48,7 +48,7 @@ Your Bitcoin-PoCX node should relay transactions (do not use `blocksonly=1`).
 Build from source:
 
 ```bash
-git clone https://github.com/PoC-Consortium/btcx-ln.git
+git clone https://github.com/rico666/btcx-ln.git
 cd btcx-ln
 ./configure
 make
